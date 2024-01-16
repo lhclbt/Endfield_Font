@@ -5,7 +5,7 @@ EndfieldByButan 是基于鹰角网络在游戏《明日方舟》和《明日方�
 
 注意，为了让该字体可以基本使用，本人额外添加了以下所有标蓝的字符。这些字符和明日方舟可能的设定无关。
 
-
+![1](./font_overview.png)
 
 该字体依照CC BY-NC 4.0 协议发布： https://creativecommons.org/licenses/by-nc/4.0/
 

@@ -1,4 +1,7 @@
 ## Endfield_Font
+
+English readme: [README_en](./README_en.md)
+
 ### 说明
 
 EndfieldByButan.ttf 是基于鹰角网络在游戏《明日方舟》和《明日方舟：终末地》及其宣传材料中出现的原创文字，经过推导破译后整理得到的字体设计。该字体可以视为明日方舟这一IP的二创产物。
